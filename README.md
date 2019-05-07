@@ -4,3 +4,4 @@
   - Dict
   - KeyError
   - Comprehensions
+  - Lambda
