@@ -1,1 +1,1 @@
-## Some useful code for me
+# Personal Python Tricks
