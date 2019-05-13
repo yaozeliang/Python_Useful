@@ -7,3 +7,4 @@
   - Lambda
   - Slicing
   - Time
+  - Datetime
