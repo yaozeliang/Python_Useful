@@ -1,4 +1,4 @@
-# Personal Python Summary
+# Personal Summary
 
  - Strings
   - Dict
@@ -8,3 +8,4 @@
   - Slicing
   - Time
   - Datetime
+  - Sequence
