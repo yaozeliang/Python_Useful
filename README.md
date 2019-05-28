@@ -11,3 +11,5 @@
   - Sequence
   - *args and **kwargs
   - SHA
+  - Sorted & Sort
+  - pprint & json
