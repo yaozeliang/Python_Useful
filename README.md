@@ -13,3 +13,4 @@
   - SHA
   - Sorted & Sort
   - pprint & json
+  - Operators
