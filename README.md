@@ -14,3 +14,4 @@
   - Sorted & Sort
   - pprint & json
   - Operators
+  - Multithreading Speed Up
