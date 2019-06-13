@@ -15,3 +15,4 @@
   - pprint & json
   - Operators
   - Multithreading Speed Up
+  - Class
