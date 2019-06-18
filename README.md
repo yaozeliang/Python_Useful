@@ -1,4 +1,4 @@
-# Personal Summary for everything in Python
+# Personal Summary for sth useful in Python
 > Let's contribute together if you are a pythonista
  - Strings 
   - Dict
