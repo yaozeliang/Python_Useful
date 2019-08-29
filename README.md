@@ -9,10 +9,10 @@
   - Time
   - Datetime
   - Sequence
-   1. List
-   2. Set & Tuple
-   3. Sort
-   4. Comprehensions
+     1. List
+     2. Set & Tuple
+     3. Sort
+     4. Comprehensions
   - *args and **kwargs
   - SHA
   - Sorted & Sort
